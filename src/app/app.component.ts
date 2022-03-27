@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularapp';
+
+
+  // onCreatePerson(name :string){
+  //   this.persons.push(name);
+  // }
 }
